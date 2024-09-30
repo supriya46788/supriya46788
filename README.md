@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning **DSA With Java**
 
-- 💬 Ask me about **Web Development, Android Development**
+- 💬 Ask me about **Web Development, Android Development**                    ![giel4](https://github.com/user-attachments/assets/a8a39141-617e-42cf-bd28-a5578bec53ca)
+                              
 
 - 📫 How to reach me **supriyadpandey502@gmail.com**
 
