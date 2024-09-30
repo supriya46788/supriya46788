@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Supriya</h1>
 <h3 align="center">A passionate web developer</h3>
 
+<img align ="right" width="400" src="https://github.com/user-attachments/assets/89684397-b870-4f64-9827-80c41cfde3ea">
 
 - 🌱 I’m currently learning **DSA With Java**
 
-- 💬 Ask me about **Web Development, Android Development**                    ![giel4](https://github.com/user-attachments/assets/a8a39141-617e-42cf-bd28-a5578bec53ca)
+- 💬 Ask me about **Web Development, Android Development**                  
                               
-
 - 📫 How to reach me **supriyadpandey502@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
