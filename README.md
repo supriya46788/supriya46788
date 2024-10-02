@@ -3,10 +3,15 @@
 
 <img align ="right" width="300" src="https://github.com/user-attachments/assets/89684397-b870-4f64-9827-80c41cfde3ea">
 
-- 🌱 I’m currently learning **DSA With Java**
+## 🚀 About Me
 
-- 💬 Ask me about **Web Development, Android Development**                  
-                              
+- 🏅 Former Intern at Eduskills Foundation, CodSoft, and Cyber Secured India
+- 💻 Experienced in **Web Development** (HTML, CSS, JavaScript, Bootstrap, Databases) and **Android Development** (Kotlin, Android Studio)
+- 📜 Certified by **PepsiCo India** for participating in the **PepShe Supply Chain Star Program**
+- 🎓 Campus Ambassador for **GirlScript Summer of Code (GSSoC) 2024** - Extended Edition
+- 👨‍💻 Contributor in **GSSoC** and advocate for open-source collaboration
+- 💡 Actively solving **LeetCode** problems to sharpen my DSA skills
+- 🌱 I’m currently learning **DSA With Java**
 - 📫 How to reach me **supriyadpandey502@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
