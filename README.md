@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Supriya</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<img align ="right" width="300" src="https://github.com/user-attachments/assets/89684397-b870-4f64-9827-80c41cfde3ea">
-
 ## 🚀 About Me
+
+<img align ="right" width="300" src="https://github.com/user-attachments/assets/89684397-b870-4f64-9827-80c41cfde3ea">
 
 - 🏅 Former Intern at Eduskills Foundation, CodSoft, and Cyber Secured India
 - 💻 Experienced in **Web Development** (HTML, CSS, JavaScript, Bootstrap, Databases) and **Android Development** (Kotlin, Android Studio)
