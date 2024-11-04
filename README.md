@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya46788&label=Profile%20views&color=0e75b6&style=flat" alt="supriya46788" /> </p>
 <h1 align="center">Hi 👋, I'm Supriya</h1>
 <h3 align="center">A passionate web developer</h3>
 
