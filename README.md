@@ -37,6 +37,17 @@
 
 </div>
 
+<!-- # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=supriya46788&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=supriya46788&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=supriya46788&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=supriya46788&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+---
+
  ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
