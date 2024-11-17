@@ -61,7 +61,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /> -->
 </div>
 
-## Hactoberfest'24
+## Hactoberfest'24 🦖
 [![An image of @supriya46788's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supriya46788)](https://holopin.io/@supriya46788)
 
 <h3 align= "center">Show some ❤️ by starring some of the repositories!!</h3>
