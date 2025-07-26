@@ -6,13 +6,17 @@
 
 <img align ="right" width="300" src="https://github.com/user-attachments/assets/89684397-b870-4f64-9827-80c41cfde3ea">
 
-- 🏅 Former Intern at Eduskills Foundation, CodSoft, and Cyber Secured India
-- 💻 Experienced in **Web Development** (HTML, CSS, JavaScript, Bootstrap, Databases) and **Android Development** (Kotlin, Android Studio)
-- 📜 Certified by **PepsiCo India** for participating in the **PepShe Supply Chain Star Program**
-- 🎓 Campus Ambassador for **GirlScript Summer of Code (GSSoC) 2024** - Extended Edition
-- 👨‍💻 Contributor in **GSSoC** and advocate for open-source collaboration
-- 💡 I’m currently learning **DSA With Java**
-- 📫 How to reach me **supriyadpandey502@gmail.com**
+👩‍💻 Former Intern at **Eduskills Foundation**  
+   
+✨ Selected for **Google Girl Hackathon** & **Flipkart Grid 7.0**  
+   
+💻 Experience in **Web Development** & **Machine Learning**  
+   
+🎓 CA & Contributor at **GirlScript Summer of Code (GSSoC) 2024**  
+   
+💡 Currently leveling up my **DSA** skills in **Java**  
+   
+📫 Reach me at: **supriyadpandey502@gmail.com**  
 
 ---
 
