@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Supriya</h1>
 
-## About Me 🚀
+## About Me:
 
 <img align ="right" width="300" src="https://github.com/user-attachments/assets/89684397-b870-4f64-9827-80c41cfde3ea">
 
@@ -20,7 +20,7 @@
 
 ---
 
-### Languages and Tools 💻:
+## Languages and Tools:
 
 <div align="center">
 <table>
@@ -49,30 +49,38 @@
 </div>
 
 
-## My GitHub Stats 📊
+## My GitHub Stats:
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supriya46788&show_icons=true&theme=radical)](https://github.com/supriya46788)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supriya46788&layout=compact&theme=radical)](https://github.com/supriya46788)
+  <!-- Top Languages (centered at top) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriya46788&layout=compact&theme=radical" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=supriya46788&theme=radical)](https://github.com/supriya46788)
+  <br>
+
+  <!-- Side-by-side layout for stats and streak -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=supriya46788&show_icons=true&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=supriya46788&theme=radical" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=supriya46788&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=supriya46788&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=supriya46788&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-## GitHub Trophies 🏆
+## GitHub Trophies:
 
+<div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=supriya46788&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Stars,Commits,Repositories,Issues,Followers,PullRequest,Experience)
+</div>
 
----
-
- ## GSSOC(24) Badges 🪶
+ ## GSSOC(24) Badges:
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" /> 
@@ -83,7 +91,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 
-## Hactoberfest'24 🦖
+## Hactoberfest'24:
 [![An image of @supriya46788's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supriya46788)](https://holopin.io/@supriya46788)
 
 
