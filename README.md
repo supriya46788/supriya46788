@@ -73,12 +73,17 @@
 </div>
 
 
-## GitHub Trophies:
 
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=supriya46788&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Stars,Commits,Repositories,Issues,Followers,PullRequest,Experience)
-</div>
+<div align="center"> 
+<h2 align="center">Leetcode Badges<h2>  
+<p align="center">
+  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="200" width="200" />
+  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" />
+  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" />
+  <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" />
+</p>
+
+
 
  ## GSSOC(24) Badges:
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
