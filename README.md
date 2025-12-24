@@ -6,15 +6,13 @@
 
 <img align ="right" width="300" src="https://github.com/user-attachments/assets/89684397-b870-4f64-9827-80c41cfde3ea">
 
-👩‍💻 Former Intern at **Eduskills Foundation**  
+👩‍💻 Former Intern at **Infosys Springboard**  
    
 ✨ Selected for **Google Girl Hackathon** & **Flipkart Grid 7.0**  
    
-💻 Experience in **Web Development** & **Machine Learning**  
+💻 Experience in **GenAI**, **RAG-based systems**, **Agentic AI** & **Web Development**  
    
-🎓 CA & Contributor at **GirlScript Summer of Code (GSSoC) 2024**  
-   
-💡 Currently leveling up my **DSA** skills in **Java**  
+🎓 Project Admin & Contributor at **GirlScript Summer of Code (GSSoC)**    
    
 📫 Reach me at: **supriyadpandey502@gmail.com**  
 
