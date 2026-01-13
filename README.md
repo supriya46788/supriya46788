@@ -1,4 +1,8 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/852a8d9b-2635-4c8b-86ea-8e62b131a7aa" />
+
+
+<img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/48afdca2-3313-427b-afb4-fc908afd3359" />
+
+
 
 <h1 align="center">Hi 👋, I'm Supriya</h1>
 
