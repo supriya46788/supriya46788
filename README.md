@@ -29,8 +29,8 @@
 
 | AI & GenAI      | Programming                                                                                                  | Tools                                                                                                                     |
 | --------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| 🧠 LLMs         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="16"/> LangChain |
-| 🗣 NLP          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java       | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chromadb.svg" width="16"/> ChromaDB   |
+| 🧠 LLMs         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python | 🔗 LangChain |
+| 🗣 NLP          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java       | 🛢 ChromaDB   |
 | 🔎 RAG          |                                                                                                              | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="16"/> Colab   |
 | 🤖 Agentic AI   |                                                                                                              | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gradio.svg" width="16"/> Gradio       |
 | ✍️ Prompt Engg. |                                                                                                              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Git/GitHub                    |
