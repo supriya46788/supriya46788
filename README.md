@@ -39,28 +39,7 @@
 </div>
 
 
-## My GitHub Stats:
 
-<div align="center">
-
-  <!-- Top Languages (centered at top) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriya46788&layout=compact&theme=radical" />
-
-  <br>
-
-  <!-- Side-by-side layout for stats and streak -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=supriya46788&show_icons=true&theme=radical" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=supriya46788&theme=radical" />
-      </td>
-    </tr>
-  </table>
-
-</div>
 
 
 
